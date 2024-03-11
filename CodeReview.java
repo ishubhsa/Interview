@@ -1,7 +1,7 @@
 public class Employee {
-    private String Name;
-    private int age;
-    private String email;
+    public String Name;
+    public int age;
+    public String email;
 
     private Connection connection;
 
